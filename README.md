@@ -5,7 +5,7 @@
 -->
 <!--  -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&pause=1100&color=183F9C&width=435&lines=Web+Developer+Full+Stack;Love+to+learn+new+stuffs;Active+Learner+%26+Researcher" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&pause=1100&color=183F9C&width=435&lines=Web+Developer+Full+Stack;Love+to+learn+new+stuffs;Active+Learner+%26+Researcher" alt="Typing SVG" /></a>
 </p>
 <h2> Skills  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
 <div align="center">
