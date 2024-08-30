@@ -39,8 +39,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inigoestebangomez&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-
-![Iñigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=inigoestebangomez&show_icons=true&theme=transparent&rank_icon=github) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inigoestebangomez&layout=compact)
-
 <br>
