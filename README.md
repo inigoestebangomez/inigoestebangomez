@@ -29,4 +29,5 @@
 <a href = 'https://www.github.com/inigoestebangomez'> <img width = '32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 </div>
 
+![Iñigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=inigoestebangomez&show_icons=true&theme=transparent)
 <br>
