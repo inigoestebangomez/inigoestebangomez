@@ -29,5 +29,8 @@
 <a href = 'https://www.github.com/inigoestebangomez'> <img width = '32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 </div>
 
+
+<h2> My stats <img src='https://static.wixstatic.com/media/d87744_96d5f56a3fe945e2a0c8afe20868d896~mv2.gif' width="100px"> </h2>
 ![Iñigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=inigoestebangomez&show_icons=true&theme=transparent)
+
 <br>
