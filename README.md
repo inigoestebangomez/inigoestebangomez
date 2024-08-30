@@ -31,10 +31,10 @@
 <h2> My stats <img src='https://static.wixstatic.com/media/d87744_96d5f56a3fe945e2a0c8afe20868d896~mv2.gif' width="50px"> </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=inigoestebangomez&show_icons=true&theme=transparent&rank_icon=github" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=inigoestebangomez&show_icons=true&theme=transparent&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inigoestebangomez&layout=compact&langs_count=8&card_width=320" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inigoestebangomez&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <br>
