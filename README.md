@@ -31,7 +31,11 @@
 
 <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/netlify.svg'>
 
-<img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/npm.svg'>
+<img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/vuejs.svg'>
+
+<img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/nuxtjs.svg'>
+
+<img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/java.svg'>
 
 </div>
 
