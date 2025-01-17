@@ -17,8 +17,6 @@
 
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
 
-<img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/bootstrap.svg'>
-
 <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/swift.svg'>
 
 <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/nodejs.svg'>
@@ -28,8 +26,6 @@
 <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/mongodb.svg'>
 
 <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/postman.svg'>
-
-<img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/netlify.svg'>
 
 <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/vuejs.svg'>
 
